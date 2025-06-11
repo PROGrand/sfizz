@@ -31,6 +31,7 @@
 #include "parser/Parser.h"
 #include <absl/algorithm/container.h>
 #include <absl/memory/memory.h>
+#include <absl/strings/str_cat.h>
 #include <absl/strings/str_replace.h>
 #include <absl/types/optional.h>
 #include <absl/types/span.h>
